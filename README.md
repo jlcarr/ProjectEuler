@@ -1,6 +1,8 @@
 # ProjectEuler
 Solutions to Project Euler problems
 
+https://projecteuler.net/
+
 ## Compilation Instructions
 ```shell
 g++ -std=c++0x main.cpp
@@ -57,8 +59,14 @@ g++ -std=c++0x main.cpp
 **Approach**: Brute force search.  
 
 ### Problem 9
+**Name**: Special Pythagorean triplet  
+**Solution**: 31875000  
+**Timing**: 0.283833  
+**Approach**: Brute force search.  
+
+### Problem 10
 **Name**:  
-**Solution**:  
+**Solution**:   
 **Timing**:  
 **Approach**:   
 
