@@ -17,7 +17,7 @@ g++ -std=c++0x main.cpp
 **Approach**: Brute force. (closed-form is possible)  
 
 ### Problem 2
-**Name**: Even Fibonacci numbers
+**Name**: Even Fibonacci numbers  
 **Solution**: 4613732  
 **Timing**: 0.056059ms  
 **Approach**: Iterative brute-force. (closed-form is possible)  
@@ -25,7 +25,7 @@ g++ -std=c++0x main.cpp
 ### Problem 3
 **Name**: Largest prime factor  
 **Solution**: 6857  
-**Timing**: 0.152476ms
+**Timing**: 0.152476ms  
 **Approach**: Sieve of Eratosthenes.  
 
 ### Problem 4
@@ -65,6 +65,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Brute force search.  
 
 ### Problem 10
+**Name**: Summation of primes  
+**Solution**: 142913828922  
+**Timing**: 1288.29ms  
+**Approach**: Sieve of Eratosthenes   
+
+### Problem 11
 **Name**:  
 **Solution**:   
 **Timing**:  
