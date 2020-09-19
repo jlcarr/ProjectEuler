@@ -61,7 +61,7 @@ g++ -std=c++0x main.cpp
 ### Problem 9
 **Name**: Special Pythagorean triplet  
 **Solution**: 31875000  
-**Timing**: 0.283833  
+**Timing**: 0.283833ms  
 **Approach**: Brute force search.  
 
 ### Problem 10
@@ -71,6 +71,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Sieve of Eratosthenes   
 
 ### Problem 11
+**Name**: Largest product in a grid  
+**Solution**:70600674  
+**Timing**: 1.92247ms  
+**Approach**: Brute force search   
+
+### Problem 12
 **Name**:  
 **Solution**:   
 **Timing**:  
