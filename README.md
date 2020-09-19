@@ -77,6 +77,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Brute force search   
 
 ### Problem 12
+**Name**: Highly divisible triangular number  
+**Solution**: 76576500  
+**Timing**: 72.1384ms  
+**Approach**: Sieve of Eratosthenes, then cache maps of prime factors to powers, multiply through to get total divisors. Also maps to triangular numbers.   
+
+### Problem 13
 **Name**:  
 **Solution**:   
 **Timing**:  
