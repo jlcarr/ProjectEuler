@@ -83,6 +83,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Sieve of Eratosthenes, then cache maps of prime factors to powers, multiply through to get total divisors. Also maps to triangular numbers.   
 
 ### Problem 13
+**Name**: Large sum 
+**Solution**: 5537376230  
+**Timing**: 1.11715ms  
+**Approach**: Long addition  
+
+### Problem 14
 **Name**:  
 **Solution**:   
 **Timing**:  
