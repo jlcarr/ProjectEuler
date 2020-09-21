@@ -83,12 +83,18 @@ g++ -std=c++0x main.cpp
 **Approach**: Sieve of Eratosthenes, then cache maps of prime factors to powers, multiply through to get total divisors. Also maps to triangular numbers.   
 
 ### Problem 13
-**Name**: Large sum 
+**Name**: Large sum   
 **Solution**: 5537376230  
 **Timing**: 1.11715ms  
 **Approach**: Long addition  
 
 ### Problem 14
+**Name**: Longest Collatz sequence  
+**Solution**: 837799  
+**Timing**: 5454.24ms  
+**Approach**: Cache smaller chain length in a map  
+
+### Problem 15
 **Name**:  
 **Solution**:   
 **Timing**:  
