@@ -95,6 +95,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Cache smaller chain length in a map  
 
 ### Problem 15
+**Name**: Lattice paths  
+**Solution**: 137846528820  
+**Timing**: 0.070639ms  
+**Approach**: Closed-form solution via star-and-bars forumla. Just needed a few tricks to compute without int overflow.  
+
+### Problem 16
 **Name**:  
 **Solution**:   
 **Timing**:  
