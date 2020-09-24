@@ -101,6 +101,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Closed-form solution via star-and-bars forumla. Just needed a few tricks to compute without int overflow.  
 
 ### Problem 16
+**Name**: Power digit sum  
+**Solution**: 1366  
+**Timing**: 4.65102ms  
+**Approach**: Long addition  
+
+### Problem 17
 **Name**:  
 **Solution**:   
 **Timing**:  
