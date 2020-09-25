@@ -107,6 +107,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Long addition  
 
 ### Problem 17
+**Name**: Number letter counts  
+**Solution**: 21124  
+**Timing**: 0.137673ms  
+**Approach**: Base 10 digits and lookup tables.  
+
+### Problem 18
 **Name**:  
 **Solution**:   
 **Timing**:  
