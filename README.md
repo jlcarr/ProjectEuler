@@ -113,6 +113,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Base 10 digits and lookup tables.  
 
 ### Problem 18
+**Name**: Maximum path sum I  
+**Solution**: 1074  
+**Timing**: 0.452704ms  
+**Approach**: Dijkstra's algorithm  
+
+### Problem 19
 **Name**:  
 **Solution**:   
 **Timing**:  
