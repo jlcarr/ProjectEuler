@@ -132,3 +132,17 @@ g++ -std=c++0x main.cpp
 
 ## Useful resources
 - https://sites.google.com/site/indy256/algo_cpp/bigint
+- https://en.wikipedia.org/wiki/Fibonacci_number#Binet's_formula
+   - 2
+- https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
+   - 3, 7, 10, 12
+- https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+   - 18
+- https://en.wikipedia.org/wiki/Triangular_number
+   - 6, 12
+- https://en.wikipedia.org/wiki/Square_pyramidal_number
+   - 6
+- https://en.wikipedia.org/wiki/Stars_and_bars_(combinatorics)
+   - 15 
+- https://en.wikipedia.org/wiki/Euclidean_algorithm
+- https://en.wikipedia.org/wiki/Addition
