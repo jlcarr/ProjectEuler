@@ -119,6 +119,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Dijkstra's algorithm  
 
 ### Problem 19
+**Name**: Counting Sundays  
+**Solution**: 171  
+**Timing**: 0.69525ms  
+**Approach**: Direct counting with look-up table. Closed-form may be possible with calendar calculations.  
+
+### Problem 20
 **Name**:  
 **Solution**:   
 **Timing**:  
