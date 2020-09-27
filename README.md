@@ -125,6 +125,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Direct counting with look-up table. Closed-form may be possible with calendar calculations.  
 
 ### Problem 20
+**Name**: Factorial digit sum  
+**Solution**: 648  
+**Timing**: 0.32855ms  
+**Approach**: Long addition.  
+
+### Problem 21
 **Name**:  
 **Solution**:   
 **Timing**:  
