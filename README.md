@@ -131,6 +131,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Long addition.  
 
 ### Problem 21
+**Name**: Amicable numbers  
+**Solution**: 31626  
+**Timing**: 2.83573ms  
+**Approach**: Sieve of Eratosthenes for primes, cache divisor sums, then use geometric series property to quickly compute new abundancy indicies.  
+
+### Problem 22
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -150,5 +156,7 @@ g++ -std=c++0x main.cpp
    - 6
 - https://en.wikipedia.org/wiki/Stars_and_bars_(combinatorics)
    - 15 
+- https://en.wikipedia.org/wiki/Geometric_series
+   - 21
 - https://en.wikipedia.org/wiki/Euclidean_algorithm
 - https://en.wikipedia.org/wiki/Addition
