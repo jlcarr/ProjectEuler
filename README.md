@@ -137,6 +137,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Sieve of Eratosthenes for primes, cache divisor sums, then use geometric series property to quickly compute new abundancy indicies.  
 
 ### Problem 22
+**Name**: Names scores  
+**Solution**: 871198282  
+**Timing**: 13.1327ms  
+**Approach**: Reading strings, ascii math, direct.  
+
+### Problem 23
 **Name**:  
 **Solution**:   
 **Timing**:  
