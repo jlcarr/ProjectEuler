@@ -143,6 +143,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Reading strings, ascii math, direct.  
 
 ### Problem 23
+**Name**: Non-abundant sums  
+**Solution**: 4179871  
+**Timing**: 1380.09ms  
+**Approach**:   
+
+### Problem 24
 **Name**:  
 **Solution**:   
 **Timing**:  
