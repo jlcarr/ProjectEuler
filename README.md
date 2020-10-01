@@ -146,9 +146,15 @@ g++ -std=c++0x main.cpp
 **Name**: Non-abundant sums  
 **Solution**: 4179871  
 **Timing**: 1380.09ms  
-**Approach**:   
+**Approach**: See Problem 21  
 
 ### Problem 24
+**Name**: Lexicographic permutations  
+**Solution**: 2783915460  
+**Timing**: 0.077083ms  
+**Approach**: Close to closed-form with factorial number system.  
+
+### Problem 25
 **Name**:  
 **Solution**:   
 **Timing**:  
