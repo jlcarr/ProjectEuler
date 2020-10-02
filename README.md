@@ -161,6 +161,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Close-form solution via Binet's formula  
 
 ### Problem 26
+**Name**: Reciprocal cycles  
+**Solution**: 983  
+**Timing**: 75.9181ms  
+**Approach**: Long division to find remainder cycle.  
+
+### Problem 27
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -183,6 +189,6 @@ g++ -std=c++0x main.cpp
 - https://en.wikipedia.org/wiki/Geometric_series
    - 21, 23
 - https://en.wikipedia.org/wiki/Factorial_number_system
-   - 25
+   - 24
 - https://en.wikipedia.org/wiki/Euclidean_algorithm
 - https://en.wikipedia.org/wiki/Addition
