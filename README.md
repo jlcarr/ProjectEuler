@@ -155,6 +155,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Close to closed-form with factorial number system.  
 
 ### Problem 25
+**Name**:  1000-digit Fibonacci number  
+**Solution**: 4782  
+**Timing**: 0.090347ms  
+**Approach**: Close-form solution via Binet's formula  
+
+### Problem 26
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -163,9 +169,9 @@ g++ -std=c++0x main.cpp
 ## Useful resources
 - https://sites.google.com/site/indy256/algo_cpp/bigint
 - https://en.wikipedia.org/wiki/Fibonacci_number#Binet's_formula
-   - 2
+   - 2, 25
 - https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
-   - 3, 7, 10, 12
+   - 3, 7, 10, 12, 21, 23
 - https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
    - 18
 - https://en.wikipedia.org/wiki/Triangular_number
@@ -175,6 +181,8 @@ g++ -std=c++0x main.cpp
 - https://en.wikipedia.org/wiki/Stars_and_bars_(combinatorics)
    - 15 
 - https://en.wikipedia.org/wiki/Geometric_series
-   - 21
+   - 21, 23
+- https://en.wikipedia.org/wiki/Factorial_number_system
+   - 25
 - https://en.wikipedia.org/wiki/Euclidean_algorithm
 - https://en.wikipedia.org/wiki/Addition
