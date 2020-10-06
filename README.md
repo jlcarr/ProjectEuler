@@ -173,6 +173,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Sieve of Eratosthenes.  
 
 ### Problem 28
+**Name**: Number spiral diagonals  
+**Solution**: 669171001  
+**Timing**: 0.056059ms  
+**Approach**: Closed-form solution via triangular number and square pyramidal numbers.  
+
+### Problem 29
 **Name**:  
 **Solution**:   
 **Timing**:  
