@@ -155,7 +155,7 @@ g++ -std=c++0x main.cpp
 **Approach**: Close to closed-form with factorial number system.  
 
 ### Problem 25
-**Name**:  1000-digit Fibonacci number  
+**Name**: 1000-digit Fibonacci number  
 **Solution**: 4782  
 **Timing**: 0.090347ms  
 **Approach**: Close-form solution via Binet's formula  
@@ -179,6 +179,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Closed-form solution via triangular number and square pyramidal numbers.  
 
 ### Problem 29
+**Name**: Distinct powers  
+**Solution**: 9183  
+**Timing**: 7.61125  
+**Approach**: Use of a set and a dictionary to keep track.  
+
+### Problem 30
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -193,9 +199,9 @@ g++ -std=c++0x main.cpp
 - https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
    - 18
 - https://en.wikipedia.org/wiki/Triangular_number
-   - 6, 12
+   - 6, 12, 28
 - https://en.wikipedia.org/wiki/Square_pyramidal_number
-   - 6
+   - 6, 28
 - https://en.wikipedia.org/wiki/Stars_and_bars_(combinatorics)
    - 15 
 - https://en.wikipedia.org/wiki/Geometric_series
