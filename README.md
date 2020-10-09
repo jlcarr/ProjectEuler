@@ -185,6 +185,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Use of a set and a dictionary to keep track.  
 
 ### Problem 30
+**Name**: Digit fifth powers  
+**Solution**: 443839  
+**Timing**: 56.6929ms  
+**Approach**: Estimate bounds, then generate multi-choose.  
+
+### Problem 31
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -208,5 +214,7 @@ g++ -std=c++0x main.cpp
    - 21, 23
 - https://en.wikipedia.org/wiki/Factorial_number_system
    - 24
+- https://en.wikipedia.org/wiki/Multiset
+   - 30
 - https://en.wikipedia.org/wiki/Euclidean_algorithm
 - https://en.wikipedia.org/wiki/Addition
