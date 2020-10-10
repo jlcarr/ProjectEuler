@@ -191,6 +191,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Estimate bounds, then generate multi-choose.  
 
 ### Problem 31
+**Name**: Coin sums  
+**Solution**: 73682  
+**Timing**: 0.104569  
+**Approach**: Classic dynamic programming with sub-problem look-up table.  
+
+### Problem 32
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -216,5 +222,7 @@ g++ -std=c++0x main.cpp
    - 24
 - https://en.wikipedia.org/wiki/Multiset
    - 30
+- https://en.wikipedia.org/wiki/Dynamic_programming
+   - 31
 - https://en.wikipedia.org/wiki/Euclidean_algorithm
 - https://en.wikipedia.org/wiki/Addition
