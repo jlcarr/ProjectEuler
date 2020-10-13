@@ -181,7 +181,7 @@ g++ -std=c++0x main.cpp
 ### Problem 29
 **Name**: Distinct powers  
 **Solution**: 9183  
-**Timing**: 7.61125  
+**Timing**: 7.61125ms  
 **Approach**: Use of a set and a dictionary to keep track.  
 
 ### Problem 30
@@ -193,10 +193,16 @@ g++ -std=c++0x main.cpp
 ### Problem 31
 **Name**: Coin sums  
 **Solution**: 73682  
-**Timing**: 0.104569  
+**Timing**: 0.104569ms  
 **Approach**: Classic dynamic programming with sub-problem look-up table.  
 
 ### Problem 32
+**Name**: Pandigital products  
+**Solution**: 45228  
+**Timing**: 2282.32ms  
+**Approach**: Generate all permutations and search operator placement.  
+
+### Problem 33
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -224,5 +230,8 @@ g++ -std=c++0x main.cpp
    - 30
 - https://en.wikipedia.org/wiki/Dynamic_programming
    - 31
+- https://en.wikipedia.org/wiki/Permutation
+   - 32
 - https://en.wikipedia.org/wiki/Euclidean_algorithm
 - https://en.wikipedia.org/wiki/Addition
+- https://en.wikipedia.org/wiki/Pascal%27s_rule
