@@ -209,6 +209,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Brute-force, then Euclid's for lowest terms solution.  
 
 ### Problem 34
+**Name**: Digit factorials  
+**Solution**: 40730
+**Timing**: 3690.61ms 
+**Approach**: Compute upper bound, then brute-force (could be optimized by lowering upper-bound).  
+
+### Problem 35
 **Name**:  
 **Solution**:   
 **Timing**:  
