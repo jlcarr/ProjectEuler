@@ -203,6 +203,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Generate all permutations and search operator placement.  
 
 ### Problem 33
+**Name**: Digit cancelling fractions  
+**Solution**: 100  
+**Timing**: 0.220548ms  
+**Approach**: Brute-force, then Euclid's for lowest terms solution.  
+
+### Problem 34
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -233,5 +239,6 @@ g++ -std=c++0x main.cpp
 - https://en.wikipedia.org/wiki/Permutation
    - 32
 - https://en.wikipedia.org/wiki/Euclidean_algorithm
+   - 33
 - https://en.wikipedia.org/wiki/Addition
 - https://en.wikipedia.org/wiki/Pascal%27s_rule
