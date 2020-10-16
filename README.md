@@ -221,6 +221,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Sieve of Eratosthenes  
 
 ### Problem 36
+**Name**: Double-base palindromes  
+**Solution**: 872187  
+**Timing**: 3591.2ms  
+**Approach**: Radix conversion.  
+
+### Problem 37
 **Name**:  
 **Solution**:   
 **Timing**:  
