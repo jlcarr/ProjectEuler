@@ -227,6 +227,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Radix conversion.  
 
 ### Problem 37
+**Name**: Truncatable primes  
+**Solution**: 748317  
+**Timing**: 20.0482ms  
+**Approach**: Sieve of Eratosthenes, tree search.  
+
+### Problem 38
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -237,7 +243,7 @@ g++ -std=c++0x main.cpp
 - https://en.wikipedia.org/wiki/Fibonacci_number#Binet's_formula
    - 2, 25
 - https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
-   - 3, 7, 10, 12, 21, 23, 27, 35
+   - 3, 7, 10, 12, 21, 23, 27, 35, 37
 - https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
    - 18
 - https://en.wikipedia.org/wiki/Triangular_number
