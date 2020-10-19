@@ -233,6 +233,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Sieve of Eratosthenes, tree search.  
 
 ### Problem 38
+**Name**: Pandigital multiples  
+**Solution**: 932718654  
+**Timing**: 2432.7ms  
+**Approach**: Generate permutations, and check grouping validity  
+
+### Problem 39
 **Name**:  
 **Solution**:   
 **Timing**:  
