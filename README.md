@@ -239,6 +239,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Generate permutations, and check grouping validity  
 
 ### Problem 39
+**Name**: Integer right triangles  
+**Solution**: 840  
+**Timing**: 1.99543ms  
+**Approach**: Search all valid right-angle triangles, keep count of perimeters with a map.  
+
+### Problem 40
 **Name**:  
 **Solution**:   
 **Timing**:  
