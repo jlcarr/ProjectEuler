@@ -245,6 +245,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Search all valid right-angle triangles, keep count of perimeters with a map.  
 
 ### Problem 40
+**Name**: Champernowne's constant  
+**Solution**: 210  
+**Timing**: 0.055696ms  
+**Approach**: Direct computation (closed-form possible).  
+
+### Problem 41
 **Name**:  
 **Solution**:   
 **Timing**:  
