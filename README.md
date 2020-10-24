@@ -210,7 +210,7 @@ g++ -std=c++0x main.cpp
 
 ### Problem 34
 **Name**: Digit factorials  
-**Solution**: 40730
+**Solution**: 40730  
 **Timing**: 3690.61ms 
 **Approach**: Compute upper bound, then brute-force (could be optimized by lowering upper-bound).  
 
@@ -251,6 +251,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Direct computation (closed-form possible).  
 
 ### Problem 41
+**Name**: Pandigital prime 
+**Solution**: 7652413  
+**Timing**: 2194.3ms  
+**Approach**: Permutation generation and prime testing.  
+
+### Problem 42
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -261,7 +267,7 @@ g++ -std=c++0x main.cpp
 - https://en.wikipedia.org/wiki/Fibonacci_number#Binet's_formula
    - 2, 25
 - https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
-   - 3, 7, 10, 12, 21, 23, 27, 35, 37
+   - 3, 7, 10, 12, 21, 23, 27, 35, 37, 41
 - https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
    - 18
 - https://en.wikipedia.org/wiki/Triangular_number
@@ -279,7 +285,7 @@ g++ -std=c++0x main.cpp
 - https://en.wikipedia.org/wiki/Dynamic_programming
    - 31
 - https://en.wikipedia.org/wiki/Permutation
-   - 32
+   - 32, 38, 41
 - https://en.wikipedia.org/wiki/Euclidean_algorithm
    - 33
 - https://en.wikipedia.org/wiki/Addition
