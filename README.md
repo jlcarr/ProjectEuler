@@ -1,7 +1,22 @@
 # ProjectEuler
-Solutions to Project Euler problems
+Solutions to Project Euler problems in C++
 
 https://projecteuler.net/
+
+## About Project Euler
+https://en.wikipedia.org/wiki/Project_Euler  
+From Wikipedia:  
+Project Euler is a website dedicated to a series of computational problems intended to be solved with computer programs. The project attracts adults and students interested in mathematics and computer programming.
+
+Project Euler asks users to not share their solutions beyond problem 100, and for those that do to try to make the content educational. To that end I am providing approach explanations and linking resources useful links in this README.
+
+## About These Solutions
+- These are my original solutions written in C++.
+- The intent was to solve these problems as quickly as possible: I frequently time myself.
+- Comments are sparse and the intended approach is to be written quickly.
+- Solution values, timing on my laptop, and a terse solution approach are given below.
+- I'm also adding a series of useful links to topics useful to each problem at the end.
+- On occasion I will consider different approaches to the problem: the one I end of using remains in the main.cpp, while the discarded/incomplete solution will be in another file.
 
 ## Compilation Instructions
 ```shell
@@ -211,7 +226,7 @@ g++ -std=c++0x main.cpp
 ### Problem 34
 **Name**: Digit factorials  
 **Solution**: 40730  
-**Timing**: 3690.61ms 
+**Timing**: 3690.61ms  
 **Approach**: Compute upper bound, then brute-force (could be optimized by lowering upper-bound).  
 
 ### Problem 35
@@ -251,12 +266,18 @@ g++ -std=c++0x main.cpp
 **Approach**: Direct computation (closed-form possible).  
 
 ### Problem 41
-**Name**: Pandigital prime 
+**Name**: Pandigital prime  
 **Solution**: 7652413  
 **Timing**: 2194.3ms  
 **Approach**: Permutation generation and prime testing.  
 
 ### Problem 42
+**Name**: Coded triangle numbers  
+**Solution**: 162  
+**Timing**: 2.81879ms  
+**Approach**: Quadratic equation to check if triangular.  
+
+### Problem 43
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -271,7 +292,7 @@ g++ -std=c++0x main.cpp
 - https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
    - 18
 - https://en.wikipedia.org/wiki/Triangular_number
-   - 6, 12, 28
+   - 6, 12, 28, 42
 - https://en.wikipedia.org/wiki/Square_pyramidal_number
    - 6, 28
 - https://en.wikipedia.org/wiki/Stars_and_bars_(combinatorics)
