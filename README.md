@@ -278,6 +278,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Quadratic equation to check if triangular.  
 
 ### Problem 43
+**Name**: Sub-string divisibility  
+**Solution**: 16695334890  
+**Timing**: 261.677ms  
+**Approach**: Generate permutations, check progressively.  
+
+### Problem 44
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -306,7 +312,7 @@ g++ -std=c++0x main.cpp
 - https://en.wikipedia.org/wiki/Dynamic_programming
    - 31
 - https://en.wikipedia.org/wiki/Permutation
-   - 32, 38, 41
+   - 32, 38, 41, 43
 - https://en.wikipedia.org/wiki/Euclidean_algorithm
    - 33
 - https://en.wikipedia.org/wiki/Addition
