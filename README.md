@@ -284,6 +284,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Generate permutations, check progressively.  
 
 ### Problem 44
+**Name**: Pentagon numbers  
+**Solution**: 5482660  
+**Timing**: 77.0005ms  
+**Approach**: Brute force (using correct search order)  
+
+### Problem 45
 **Name**:  
 **Solution**:   
 **Timing**:  
