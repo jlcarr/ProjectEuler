@@ -290,6 +290,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Brute force (using correct search order)  
 
 ### Problem 45
+**Name**: Triangular, pentagonal, and hexagonal  
+**Solution**: 1533776805  
+**Timing**: 1.76118ms  
+**Approach**: Brute force (using correct search order)  
+
+### Problem 46
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -307,6 +313,8 @@ g++ -std=c++0x main.cpp
    - 6, 12, 28, 42
 - https://en.wikipedia.org/wiki/Square_pyramidal_number
    - 6, 28
+- https://en.wikipedia.org/wiki/Figurate_number
+   - 44, 45
 - https://en.wikipedia.org/wiki/Stars_and_bars_(combinatorics)
    - 15 
 - https://en.wikipedia.org/wiki/Geometric_series
@@ -323,3 +331,5 @@ g++ -std=c++0x main.cpp
    - 33
 - https://en.wikipedia.org/wiki/Addition
 - https://en.wikipedia.org/wiki/Pascal%27s_rule
+- https://en.wikipedia.org/wiki/Pell%27s_equation
+- https://en.wikipedia.org/wiki/Euler%27s_totient_function
