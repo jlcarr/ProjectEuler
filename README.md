@@ -296,6 +296,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Brute force (using correct search order)  
 
 ### Problem 46
+**Name**: Goldbach's other conjecture  
+**Solution**: 5777  
+**Timing**: 3.32399ms  
+**Approach**: Sieve of Eratosthenes  
+
+### Problem 47
 **Name**:  
 **Solution**:   
 **Timing**:  
