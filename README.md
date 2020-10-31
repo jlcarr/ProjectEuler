@@ -308,6 +308,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Sieve of Eratosthenes  
 
 ### Problem 48
+**Name**: Self powers  
+**Solution**: 9110846700  
+**Timing**: 79.5088ms  
+**Approach**: Big integer addition and arithmetic.  
+
+### Problem 49
 **Name**:  
 **Solution**:   
 **Timing**:  
