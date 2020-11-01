@@ -311,9 +311,15 @@ g++ -std=c++0x main.cpp
 **Name**: Self powers  
 **Solution**: 9110846700  
 **Timing**: 79.5088ms  
-**Approach**: Big integer addition and arithmetic.  
+**Approach**: Big integer addition and arithmetic, and some modulo properties.  
 
 ### Problem 49
+**Name**: Prime permutations  
+**Solution**: 296962999629  
+**Timing**: 5.20908ms  
+**Approach**: Sieve of Eratosthenes.  
+
+### Problem 50
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -324,7 +330,7 @@ g++ -std=c++0x main.cpp
 - https://en.wikipedia.org/wiki/Fibonacci_number#Binet's_formula
    - 2, 25
 - https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
-   - 3, 7, 10, 12, 21, 23, 27, 35, 37, 41, 46, 47
+   - 3, 7, 10, 12, 21, 23, 27, 35, 37, 41, 46, 47, 49
 - https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
    - 18
 - https://en.wikipedia.org/wiki/Triangular_number
