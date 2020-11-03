@@ -320,6 +320,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Sieve of Eratosthenes.  
 
 ### Problem 50
+**Name**: Consecutive prime sum  
+**Solution**: 997651  
+**Timing**: 1.11369ms  
+**Approach**: Sieve of Eratosthenes  
+
+### Problem 51
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -330,7 +336,7 @@ g++ -std=c++0x main.cpp
 - https://en.wikipedia.org/wiki/Fibonacci_number#Binet's_formula
    - 2, 25
 - https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
-   - 3, 7, 10, 12, 21, 23, 27, 35, 37, 41, 46, 47, 49
+   - 3, 7, 10, 12, 21, 23, 27, 35, 37, 41, 46, 47, 49, 50
 - https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
    - 18
 - https://en.wikipedia.org/wiki/Triangular_number
