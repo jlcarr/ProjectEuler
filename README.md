@@ -326,6 +326,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Sieve of Eratosthenes  
 
 ### Problem 51
+**Name**: Prime digit replacements  
+**Solution**: 121313  
+**Timing**: 2180.88ms  
+**Approach**: Sieve of Eratosthenes for primes, generate number masks by iterating bitmasks via binary. Map families.  
+
+### Problem 52
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -363,3 +369,5 @@ g++ -std=c++0x main.cpp
 - https://en.wikipedia.org/wiki/Pascal%27s_rule
 - https://en.wikipedia.org/wiki/Pell%27s_equation
 - https://en.wikipedia.org/wiki/Euler%27s_totient_function
+- https://en.wikipedia.org/wiki/Stern%E2%80%93Brocot_tree
+- https://en.wikipedia.org/wiki/Partition_function_(number_theory)
