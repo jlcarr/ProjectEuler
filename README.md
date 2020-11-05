@@ -332,6 +332,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Sieve of Eratosthenes for primes, generate number masks by iterating bitmasks via binary. Map families.  
 
 ### Problem 52
+**Name**: Permuted multiples  
+**Solution**: 142857  
+**Timing**: 579.317ms  
+**Approach**: Brute force. (Though there seems to be a relation to the digital expansion of 1/7)  
+
+### Problem 53
 **Name**:  
 **Solution**:   
 **Timing**:  
