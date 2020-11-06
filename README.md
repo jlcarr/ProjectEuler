@@ -338,6 +338,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Brute force. (Though there seems to be a relation to the digital expansion of 1/7)  
 
 ### Problem 53
+**Name**: Combinatoric selections  
+**Solution**: 4075  
+**Timing**: 0.140582ms  
+**Approach**: Pascale's rule.  
+
+### Problem 54
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -371,8 +377,9 @@ g++ -std=c++0x main.cpp
    - 32, 38, 41, 43
 - https://en.wikipedia.org/wiki/Euclidean_algorithm
    - 33
-- https://en.wikipedia.org/wiki/Addition
 - https://en.wikipedia.org/wiki/Pascal%27s_rule
+   - 53
+- https://en.wikipedia.org/wiki/Addition
 - https://en.wikipedia.org/wiki/Pell%27s_equation
 - https://en.wikipedia.org/wiki/Euler%27s_totient_function
 - https://en.wikipedia.org/wiki/Stern%E2%80%93Brocot_tree
