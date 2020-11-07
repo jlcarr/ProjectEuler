@@ -344,6 +344,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Pascale's rule.  
 
 ### Problem 54
+**Name**: Poker hands  
+**Solution**: 376  
+**Timing**: 7.5457ms  
+**Approach**: Straighforward file and data processing.  
+
+### Problem 55
 **Name**:  
 **Solution**:   
 **Timing**:  
