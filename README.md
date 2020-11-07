@@ -350,6 +350,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Straighforward file and data processing.  
 
 ### Problem 55
+**Name**: Lychrel numbers  
+**Solution**: 249  
+**Timing**: 164.759ms  
+**Approach**: Long addition, brute force.  
+
+### Problem 56
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -386,6 +392,9 @@ g++ -std=c++0x main.cpp
 - https://en.wikipedia.org/wiki/Pascal%27s_rule
    - 53
 - https://en.wikipedia.org/wiki/Addition
+   - 48, 55
+- https://en.wikipedia.org/wiki/Lychrel_number
+   - 55
 - https://en.wikipedia.org/wiki/Pell%27s_equation
 - https://en.wikipedia.org/wiki/Euler%27s_totient_function
 - https://en.wikipedia.org/wiki/Stern%E2%80%93Brocot_tree
