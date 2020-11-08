@@ -356,6 +356,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Long addition, brute force.  
 
 ### Problem 56
+**Name**: Powerful digit sum  
+**Solution**: 972  
+**Timing**: 761.328ms  
+**Approach**: Long multiplications and exponentiation by squaring.  
+
+### Problem 57
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -393,6 +399,8 @@ g++ -std=c++0x main.cpp
    - 53
 - https://en.wikipedia.org/wiki/Addition
    - 48, 55
+- https://en.wikipedia.org/wiki/Exponentiation_by_squaring
+   - 56
 - https://en.wikipedia.org/wiki/Lychrel_number
    - 55
 - https://en.wikipedia.org/wiki/Pell%27s_equation
