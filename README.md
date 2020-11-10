@@ -368,6 +368,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Big integer addition.  
 
 ### Problem 58
+**Name**: Spiral primes  
+**Solution**: 26241  
+**Timing**: 390.926ms  
+**Approach**: A little algebra, plus sieve of Eratosthenes to check primality.  
+
+### Problem 59
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -378,7 +384,7 @@ g++ -std=c++0x main.cpp
 - https://en.wikipedia.org/wiki/Fibonacci_number#Binet's_formula
    - 2, 25
 - https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
-   - 3, 7, 10, 12, 21, 23, 27, 35, 37, 41, 46, 47, 49, 50
+   - 3, 7, 10, 12, 21, 23, 27, 35, 37, 41, 46, 47, 49, 50, 58
 - https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
    - 18
 - https://en.wikipedia.org/wiki/Triangular_number
