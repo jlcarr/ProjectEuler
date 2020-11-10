@@ -362,6 +362,12 @@ g++ -std=c++0x main.cpp
 **Approach**: Long multiplications and exponentiation by squaring.  
 
 ### Problem 57
+**Name**: Square root convergents  
+**Solution**: 153  
+**Timing**: 69.4136ms  
+**Approach**: Big integer addition.  
+
+### Problem 58
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -398,7 +404,7 @@ g++ -std=c++0x main.cpp
 - https://en.wikipedia.org/wiki/Pascal%27s_rule
    - 53
 - https://en.wikipedia.org/wiki/Addition
-   - 48, 55
+   - 48, 55, 57
 - https://en.wikipedia.org/wiki/Exponentiation_by_squaring
    - 56
 - https://en.wikipedia.org/wiki/Lychrel_number
