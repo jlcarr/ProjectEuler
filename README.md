@@ -19,8 +19,15 @@ Project Euler asks users to not share their solutions beyond problem 100, and fo
 - On occasion I will consider different approaches to the problem: the one I end of using remains in the main.cpp, while the discarded/incomplete solution will be in another file.
 
 ## Compilation Instructions
+For most problems they can be compiled and run with the following commands:
 ```shell
 g++ -std=c++0x main.cpp
+./a.out
+```
+
+For problems requiring big integers or multi-precison arithmetic, the GNU Multiple Precision library is used:
+```shell
+g++ -std=c++0x main.cpp -lgmpxx -lgmp
 ./a.out
 ```
 
@@ -374,6 +381,12 @@ g++ -std=c++0x main.cpp
 **Approach**: A little algebra, plus sieve of Eratosthenes to check primality.  
 
 ### Problem 59
+**Name**: XOR decryption  
+**Solution**: 129448  
+**Timing**: 589.954ms  
+**Approach**: Brute force the key. Check decrypted text for containing the top 10 most common English words (as per description).  
+
+### Problem 60
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -381,6 +394,8 @@ g++ -std=c++0x main.cpp
 
 ## Useful resources
 - https://sites.google.com/site/indy256/algo_cpp/bigint
+- https://gmplib.org/manual/C_002b_002b-Interface-Integers#C_002b_002b-Interface-Integers
+- https://en.wikipedia.org/wiki/GNU_Multiple_Precision_Arithmetic_Library
 - https://en.wikipedia.org/wiki/Fibonacci_number#Binet's_formula
    - 2, 25
 - https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
@@ -415,6 +430,10 @@ g++ -std=c++0x main.cpp
    - 56
 - https://en.wikipedia.org/wiki/Lychrel_number
    - 55
+- https://en.wikipedia.org/wiki/Most_common_words_in_English
+   - 59
+- https://en.wikipedia.org/wiki/XOR_cipher
+   - 59
 - https://en.wikipedia.org/wiki/Pell%27s_equation
 - https://en.wikipedia.org/wiki/Euler%27s_totient_function
 - https://en.wikipedia.org/wiki/Stern%E2%80%93Brocot_tree
