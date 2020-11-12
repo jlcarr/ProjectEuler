@@ -387,6 +387,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Brute force the key. Check decrypted text for containing the top 10 most common English words (as per description).  
 
 ### Problem 60
+**Name**: Prime pair sets  
+**Solution**: 26033  
+**Timing**: 4465.47ms  
+**Approach**: Join prime-pairs as an edge in a graph. The problem then maps to the clique problem. 
+
+### Problem 61
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -399,7 +405,7 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 - https://en.wikipedia.org/wiki/Fibonacci_number#Binet's_formula
    - 2, 25
 - https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
-   - 3, 7, 10, 12, 21, 23, 27, 35, 37, 41, 46, 47, 49, 50, 58
+   - 3, 7, 10, 12, 21, 23, 27, 35, 37, 41, 46, 47, 49, 50, 58, 60
 - https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
    - 18
 - https://en.wikipedia.org/wiki/Triangular_number
@@ -434,6 +440,8 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
    - 59
 - https://en.wikipedia.org/wiki/XOR_cipher
    - 59
+- https://en.wikipedia.org/wiki/Clique_problem
+   - 60
 - https://en.wikipedia.org/wiki/Pell%27s_equation
 - https://en.wikipedia.org/wiki/Euler%27s_totient_function
 - https://en.wikipedia.org/wiki/Stern%E2%80%93Brocot_tree
