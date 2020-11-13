@@ -393,6 +393,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Join prime-pairs as an edge in a graph. The problem then maps to the clique problem. 
 
 ### Problem 61
+**Name**: Cyclical figurate numbers  
+**Solution**: 28684  
+**Timing**: 1.51747ms  
+**Approach**: Compute all figurates needed in range. Compute cycles of the number and join in a graph if there is a join. Find a path that touches all.  
+
+### Problem 62
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -413,9 +419,9 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 - https://en.wikipedia.org/wiki/Square_pyramidal_number
    - 6, 28
 - https://en.wikipedia.org/wiki/Figurate_number
-   - 44, 45
+   - 44, 45, 61
 - https://en.wikipedia.org/wiki/Stars_and_bars_(combinatorics)
-   - 15 
+   - 15
 - https://en.wikipedia.org/wiki/Geometric_series
    - 21, 23
 - https://en.wikipedia.org/wiki/Factorial_number_system
