@@ -399,6 +399,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Compute all figurates needed in range. Compute cycles of the number and join in a graph if there is a join. Find a path that touches all.  
 
 ### Problem 62
+**Name**: Cubic permutations  
+**Solution**: 127035954683  
+**Timing**: 89.1774ms  
+**Approach**: Generate cubes, keep track of perms by using digit counts.  
+
+### Problem 63
 **Name**:  
 **Solution**:   
 **Timing**:  
