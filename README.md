@@ -405,6 +405,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Generate cubes, keep track of perms by using digit counts.  
 
 ### Problem 63
+**Name**: Powerful digit counts  
+**Solution**: 49  
+**Timing**: 0.076835ms  
+**Approach**: Use logarithm laws and inequalities to find bounds and search through easily.  
+
+### Problem 64
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -454,6 +460,8 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
    - 59
 - https://en.wikipedia.org/wiki/Clique_problem
    - 60
+- https://en.wikipedia.org/wiki/List_of_logarithmic_identities
+   - 63
 - https://en.wikipedia.org/wiki/Pell%27s_equation
 - https://en.wikipedia.org/wiki/Euler%27s_totient_function
 - https://en.wikipedia.org/wiki/Stern%E2%80%93Brocot_tree
