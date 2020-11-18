@@ -411,6 +411,18 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Use logarithm laws and inequalities to find bounds and search through easily.  
 
 ### Problem 64
+**Name**: Odd period square roots  
+**Solution**: 1322  
+**Timing**: 511.809ms  
+**Approach**: A little algebra allows direct approach.  
+
+### Problem 65
+**Name**: Convergents of e  
+**Solution**: 272
+**Timing**: 1.0735  
+**Approach**: Big integer algebra  
+
+### Problem 66
 **Name**:  
 **Solution**:   
 **Timing**:  
