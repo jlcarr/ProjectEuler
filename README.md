@@ -419,10 +419,16 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 ### Problem 65
 **Name**: Convergents of e  
 **Solution**: 272
-**Timing**: 1.0735  
-**Approach**: Big integer algebra  
+**Timing**: 1.0735ms  
+**Approach**: Big integer algebra.  
 
 ### Problem 66
+**Name**: Diophantine equation  
+**Solution**: 661  
+**Timing**: 273.055ms  
+**Approach**: This is actually Pell's equation, whose solutions can be found via continued fraction approximations.  
+
+### Problem 67
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -475,6 +481,7 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 - https://en.wikipedia.org/wiki/List_of_logarithmic_identities
    - 63
 - https://en.wikipedia.org/wiki/Pell%27s_equation
+   - 66
 - https://en.wikipedia.org/wiki/Euler%27s_totient_function
 - https://en.wikipedia.org/wiki/Stern%E2%80%93Brocot_tree
 - https://en.wikipedia.org/wiki/Partition_function_(number_theory)
