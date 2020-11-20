@@ -429,6 +429,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: This is actually Pell's equation, whose solutions can be found via continued fraction approximations.  
 
 ### Problem 67
+**Name**: Maximum path sum II  
+**Solution**: 7273  
+**Timing**: 1.25228ms  
+**Approach**: Dijkstra's algorithm.  
+
+### Problem 68
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -443,7 +449,7 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 - https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
    - 3, 7, 10, 12, 21, 23, 27, 35, 37, 41, 46, 47, 49, 50, 58, 60
 - https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
-   - 18
+   - 18, 67
 - https://en.wikipedia.org/wiki/Triangular_number
    - 6, 12, 28, 42
 - https://en.wikipedia.org/wiki/Square_pyramidal_number
