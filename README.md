@@ -435,6 +435,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Dijkstra's algorithm.  
 
 ### Problem 68
+**Name**: Magic 5-gon ring  
+**Solution**: 6531031914842725  
+**Timing**: 540.762ms  
+**Approach**: Generate permutations, checking validity on the way.  
+
+### Problem 69
 **Name**:  
 **Solution**:   
 **Timing**:  
