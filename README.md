@@ -441,6 +441,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Generate permutations, checking validity on the way.  
 
 ### Problem 69
+**Name**: Totient maximum  
+**Solution**: 510510  
+**Timing**: 625.53ms  
+**Approach**: Euler's Totient Forumula, using memoization to speed up computation. Sieve of Eratosthenes for primes.  
+
+### Problem 70
 **Name**:  
 **Solution**:   
 **Timing**:  
@@ -453,7 +459,7 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 - https://en.wikipedia.org/wiki/Fibonacci_number#Binet's_formula
    - 2, 25
 - https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
-   - 3, 7, 10, 12, 21, 23, 27, 35, 37, 41, 46, 47, 49, 50, 58, 60
+   - 3, 7, 10, 12, 21, 23, 27, 35, 37, 41, 46, 47, 49, 50, 58, 60, 69
 - https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
    - 18, 67
 - https://en.wikipedia.org/wiki/Triangular_number
@@ -495,5 +501,6 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 - https://en.wikipedia.org/wiki/Pell%27s_equation
    - 66
 - https://en.wikipedia.org/wiki/Euler%27s_totient_function
+   - 69
 - https://en.wikipedia.org/wiki/Stern%E2%80%93Brocot_tree
 - https://en.wikipedia.org/wiki/Partition_function_(number_theory)
