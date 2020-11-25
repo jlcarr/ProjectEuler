@@ -458,6 +458,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Timing**:  
 **Approach**:   
 
+### Problem 72
+**Name**: Ordered fractions  
+**Solution**: 428570  
+**Timing**: 23.7682ms  
+**Approach**: Search over denominators, a little algebra allows us to check if is closer.  
+
 ## Useful resources
 - https://sites.google.com/site/indy256/algo_cpp/bigint
 - https://gmplib.org/manual/C_002b_002b-Interface-Integers#C_002b_002b-Interface-Integers
