@@ -453,16 +453,22 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Euler's Totient formula, using memoization to speed up computation. Sieve of Eratosthenes for primes. Check permutations by digits counts.  
 
 ### Problem 71
-**Name**:  
-**Solution**:   
-**Timing**:  
-**Approach**:   
-
-### Problem 72
 **Name**: Ordered fractions  
 **Solution**: 428570  
 **Timing**: 23.7682ms  
 **Approach**: Search over denominators, a little algebra allows us to check if is closer.  
+
+### Problem 72
+**Name**: Counting fractions  
+**Solution**: 303963552391  
+**Timing**: 639.53ms  
+**Approach**: Sum values of the totient function.  
+
+### Problem 73
+**Name**:   
+**Solution**:   
+**Timing**:   
+**Approach**:   
 
 ## Useful resources
 - https://sites.google.com/site/indy256/algo_cpp/bigint
@@ -513,6 +519,6 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 - https://en.wikipedia.org/wiki/Pell%27s_equation
    - 66
 - https://en.wikipedia.org/wiki/Euler%27s_totient_function
-   - 69, 70
+   - 69, 70, 72
 - https://en.wikipedia.org/wiki/Stern%E2%80%93Brocot_tree
 - https://en.wikipedia.org/wiki/Partition_function_(number_theory)
