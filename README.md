@@ -465,6 +465,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Sum values of the totient function.  
 
 ### Problem 73
+**Name**: Counting fractions in a range  
+**Solution**: 7295372  
+**Timing**: 114.229ms  
+**Approach**: Stern–Brocot tree.  
+
+### Problem 74
 **Name**:   
 **Solution**:   
 **Timing**:   
@@ -521,4 +527,5 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 - https://en.wikipedia.org/wiki/Euler%27s_totient_function
    - 69, 70, 72
 - https://en.wikipedia.org/wiki/Stern%E2%80%93Brocot_tree
+   - 73
 - https://en.wikipedia.org/wiki/Partition_function_(number_theory)
