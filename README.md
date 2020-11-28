@@ -471,6 +471,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Stern–Brocot tree.  
 
 ### Problem 74
+**Name**: Digit factorial chains  
+**Solution**: 402  
+**Timing**: 23783.8ms  
+**Approach**: Direct search (could be improved with caching)  
+
+### Problem 75
 **Name**:   
 **Solution**:   
 **Timing**:   
