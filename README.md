@@ -477,6 +477,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Direct search (could be improved with caching)  
 
 ### Problem 75
+**Name**: Singular integer right triangles  
+**Solution**: 161667  
+**Timing**: 985.493ms  
+**Approach**: Euclid's formula for generating Pythagorean triples.  
+
+### Problem 76
 **Name**:   
 **Solution**:   
 **Timing**:   
@@ -534,4 +540,6 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
    - 69, 70, 72
 - https://en.wikipedia.org/wiki/Stern%E2%80%93Brocot_tree
    - 73
+- https://en.wikipedia.org/wiki/Pythagorean_triple#Generating_a_triple
+   - 75
 - https://en.wikipedia.org/wiki/Partition_function_(number_theory)
