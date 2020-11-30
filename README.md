@@ -483,6 +483,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Euclid's formula for generating Pythagorean triples.  
 
 ### Problem 76
+**Name**: Counting summations  
+**Solution**: 190569291  
+**Timing**: 0.083216ms  
+**Approach**: Dynamic programming, copy of problem 31.  
+
+### Problem 77
 **Name**:   
 **Solution**:   
 **Timing**:   
@@ -513,7 +519,7 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 - https://en.wikipedia.org/wiki/Multiset
    - 30
 - https://en.wikipedia.org/wiki/Dynamic_programming
-   - 31
+   - 31, 76
 - https://en.wikipedia.org/wiki/Permutation
    - 32, 38, 41, 43
 - https://en.wikipedia.org/wiki/Euclidean_algorithm
