@@ -489,6 +489,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Dynamic programming, copy of problem 31.  
 
 ### Problem 77
+**Name**: Prime summations  
+**Solution**: 71  
+**Timing**: 0.4757ms  
+**Approach**: Dynamic programming with a table, also sieve of Eratosthenes for primes.   
+
+### Problem 78
 **Name**:   
 **Solution**:   
 **Timing**:   
@@ -501,7 +507,7 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 - https://en.wikipedia.org/wiki/Fibonacci_number#Binet's_formula
    - 2, 25
 - https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
-   - 3, 7, 10, 12, 21, 23, 27, 35, 37, 41, 46, 47, 49, 50, 58, 60, 69, 70
+   - 3, 7, 10, 12, 21, 23, 27, 35, 37, 41, 46, 47, 49, 50, 58, 60, 69, 70, 77
 - https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
    - 18, 67
 - https://en.wikipedia.org/wiki/Triangular_number
@@ -519,7 +525,7 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 - https://en.wikipedia.org/wiki/Multiset
    - 30
 - https://en.wikipedia.org/wiki/Dynamic_programming
-   - 31, 76
+   - 31, 76, 77
 - https://en.wikipedia.org/wiki/Permutation
    - 32, 38, 41, 43
 - https://en.wikipedia.org/wiki/Euclidean_algorithm
