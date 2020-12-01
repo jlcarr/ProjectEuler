@@ -495,6 +495,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Dynamic programming with a table, also sieve of Eratosthenes for primes.   
 
 ### Problem 78
+**Name**: Coin partitions  
+**Solution**: 55374  
+**Timing**: 10713ms  
+**Approach**: Euler's formula for the partition function.  
+
+### Problem 79
 **Name**:   
 **Solution**:   
 **Timing**:   
@@ -555,3 +561,4 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 - https://en.wikipedia.org/wiki/Pythagorean_triple#Generating_a_triple
    - 75
 - https://en.wikipedia.org/wiki/Partition_function_(number_theory)
+   - 78
