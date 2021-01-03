@@ -501,6 +501,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Euler's formula for the partition function.  
 
 ### Problem 79
+**Name**: Passcode derivation  
+**Solution**: 73162890  
+**Timing**: 0.691495ms  
+**Approach**: Assuming each digit is used only once, we can construct a graph from the number orderings, then find the unique topological ordering by iteratively removing the node with no children.  
+
+### Problem 80
 **Name**:   
 **Solution**:   
 **Timing**:   
