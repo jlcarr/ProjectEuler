@@ -504,9 +504,15 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Name**: Passcode derivation  
 **Solution**: 73162890  
 **Timing**: 0.691495ms  
-**Approach**: Assuming each digit is used only once, we can construct a graph from the number orderings, then find the unique topological ordering by iteratively removing the node with no children.  
+**Approach**: Assuming each digit is used only once, we can construct a graph from the number orderings, then find the unique topological ordering that is also a Hamiltonian path by iteratively removing the node with no children.  
 
 ### Problem 80
+**Name**: Square root digital expansion  
+**Solution**: 40886  
+**Timing**: 3.37375ms  
+**Approach**: The GNU multi-precision library makes this straight-forward.  
+
+### Problem 81
 **Name**:   
 **Solution**:   
 **Timing**:   
@@ -516,6 +522,7 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 - https://sites.google.com/site/indy256/algo_cpp/bigint
 - https://gmplib.org/manual/C_002b_002b-Interface-Integers#C_002b_002b-Interface-Integers
 - https://en.wikipedia.org/wiki/GNU_Multiple_Precision_Arithmetic_Library
+   - 80
 - https://en.wikipedia.org/wiki/Fibonacci_number#Binet's_formula
    - 2, 25
 - https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
