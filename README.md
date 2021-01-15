@@ -513,6 +513,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: The GNU multi-precision library makes this straight-forward.  
 
 ### Problem 81
+**Name**: Path sum: two ways  
+**Solution**: 427337  
+**Timing**: 1.87716  
+**Approach**: Dijkstra's algorithm (Same as problem 67).  
+
+### Problem 82
 **Name**:   
 **Solution**:   
 **Timing**:   
@@ -528,7 +534,7 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 - https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
    - 3, 7, 10, 12, 21, 23, 27, 35, 37, 41, 46, 47, 49, 50, 58, 60, 69, 70, 77
 - https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
-   - 18, 67
+   - 18, 67, 81
 - https://en.wikipedia.org/wiki/Triangular_number
    - 6, 12, 28, 42
 - https://en.wikipedia.org/wiki/Square_pyramidal_number
