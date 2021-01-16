@@ -519,6 +519,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Dijkstra's algorithm (Same as problem 67).  
 
 ### Problem 82
+**Name**: Path sum: three ways  
+**Solution**: 260324  
+**Timing**: 2.00656ms  
+**Approach**: Dijkstra's algorithm (Same as problem 81).  
+
+### Problem 83
 **Name**:   
 **Solution**:   
 **Timing**:   
@@ -534,7 +540,7 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 - https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
    - 3, 7, 10, 12, 21, 23, 27, 35, 37, 41, 46, 47, 49, 50, 58, 60, 69, 70, 77
 - https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
-   - 18, 67, 81
+   - 18, 67, 81, 82
 - https://en.wikipedia.org/wiki/Triangular_number
    - 6, 12, 28, 42
 - https://en.wikipedia.org/wiki/Square_pyramidal_number
