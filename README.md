@@ -531,6 +531,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Full Dijkstra's algorithm with a priority queue.  
 
 ### Problem 84
+**Name**: Monopoly odds  
+**Solution**: 101524  
+**Timing**: 785.269ms  
+**Approach**: Monte-Carlo simulation.  
+
+### Problem 85
 **Name**:   
 **Solution**:   
 **Timing**:   
@@ -593,3 +599,5 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
    - 75
 - https://en.wikipedia.org/wiki/Partition_function_(number_theory)
    - 78
+- https://en.wikipedia.org/wiki/Monte_Carlo_method
+   - 84
