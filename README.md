@@ -537,6 +537,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Monte-Carlo simulation.  
 
 ### Problem 85
+**Name**: Counting rectangles  
+**Solution**: 2772  
+**Timing**: 0.240589ms  
+**Approach**: Direct brute force search.  
+
+### Problem 86
 **Name**:   
 **Solution**:   
 **Timing**:   
@@ -601,3 +607,5 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
    - 78
 - https://en.wikipedia.org/wiki/Monte_Carlo_method
    - 84
+- https://en.wikipedia.org/wiki/Aliquot_sum
+   - 21, 23 
