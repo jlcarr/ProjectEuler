@@ -543,6 +543,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Direct brute force search.  
 
 ### Problem 86
+**Name**: Cuboid route  
+**Solution**: 1818  
+**Timing**: 9576.07ms  
+**Approach**: Brute force search. (Faster is possible with Euclid's Pythagorean triple generating function)  
+
+### Problem 87
 **Name**:   
 **Solution**:   
 **Timing**:   
@@ -602,7 +608,7 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 - https://en.wikipedia.org/wiki/Stern%E2%80%93Brocot_tree
    - 73
 - https://en.wikipedia.org/wiki/Pythagorean_triple#Generating_a_triple
-   - 75
+   - 75, 86
 - https://en.wikipedia.org/wiki/Partition_function_(number_theory)
    - 78
 - https://en.wikipedia.org/wiki/Monte_Carlo_method
