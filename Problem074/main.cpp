@@ -7,7 +7,7 @@
 #include <set>
 
 /*
-keep iterating, checking for if see before in chair
+keep iterating, checking for if see before in chain
 could increase performance by caching all previous loops with sizes
 
 */

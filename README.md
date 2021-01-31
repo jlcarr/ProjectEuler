@@ -555,6 +555,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Brute force with appropriate choices of loops and bounds.  
 
 ### Problem 88
+**Name**: Product-sum numbers  
+**Solution**: 7587457  
+**Timing**: 2540.85ms  
+**Approach**: Dynamic programming.  
+
+### Problem 89
 **Name**:   
 **Solution**:   
 **Timing**:   
@@ -586,7 +592,7 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 - https://en.wikipedia.org/wiki/Multiset
    - 30
 - https://en.wikipedia.org/wiki/Dynamic_programming
-   - 31, 76, 77
+   - 31, 76, 77, 88
 - https://en.wikipedia.org/wiki/Permutation
    - 32, 38, 41, 43
 - https://en.wikipedia.org/wiki/Euclidean_algorithm
