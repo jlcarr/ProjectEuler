@@ -567,6 +567,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Just parsing.  
 
 ### Problem 90
+**Name**: Cube digit pairs  
+**Solution**: 1217  
+**Timing**: 1718.46ms  
+**Approach**: Brute force.  
+
+### Problem 91
 **Name**:   
 **Solution**:   
 **Timing**:   
