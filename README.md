@@ -573,6 +573,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Brute force.  
 
 ### Problem 91
+**Name**: Right triangles with integer coordinates  
+**Solution**: 14234  
+**Timing**: 0.221873ms  
+**Approach**: Because a right-angle between lines means they have negative reciprocal slopes we can efficiently look at all points in the lattice and count points that make right triangles with them.  
+
+### Problem 92
 **Name**:   
 **Solution**:   
 **Timing**:   
