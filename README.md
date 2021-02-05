@@ -579,6 +579,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Because a right-angle between lines means they have negative reciprocal slopes we can efficiently look at all points in the lattice and count points that make right triangles with them.  
 
 ### Problem 92
+**Name**: Square digit chains  
+**Solution**: 8581146  
+**Timing**: 24174.3ms  
+**Approach**: Direct approach, caching previous results.  
+
+### Problem 93
 **Name**:   
 **Solution**:   
 **Timing**:   
