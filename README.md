@@ -585,6 +585,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Direct approach, caching previous results.  
 
 ### Problem 93
+**Name**: Arithmetic expressions  
+**Solution**: 1258  
+**Timing**: 1143.05ms  
+**Approach**: Brute force iterate over possible expression trees.  
+
+### Problem 94
 **Name**:   
 **Solution**:   
 **Timing**:   
@@ -620,7 +626,7 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 - https://en.wikipedia.org/wiki/Permutation
    - 32, 38, 41, 43
 - https://en.wikipedia.org/wiki/Euclidean_algorithm
-   - 33
+   - 33, 91
 - https://en.wikipedia.org/wiki/Pascal%27s_rule
    - 53
 - https://en.wikipedia.org/wiki/Addition
@@ -651,3 +657,5 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
    - 84
 - https://en.wikipedia.org/wiki/Aliquot_sum
    - 21, 23
+- https://en.wikipedia.org/wiki/Binary_expression_tree
+   - 93
