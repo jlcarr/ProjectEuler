@@ -591,6 +591,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Brute force iterate over possible expression trees.  
 
 ### Problem 94
+**Name**: Almost equilateral triangles  
+**Solution**: 518408346  
+**Timing**: 34173.8ms  
+**Approach**: Euclid's method for generating Pythagorean triplets.  
+
+### Problem 95
 **Name**:   
 **Solution**:   
 **Timing**:   
@@ -626,7 +632,7 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 - https://en.wikipedia.org/wiki/Permutation
    - 32, 38, 41, 43
 - https://en.wikipedia.org/wiki/Euclidean_algorithm
-   - 33, 91
+   - 33, 91, 94
 - https://en.wikipedia.org/wiki/Pascal%27s_rule
    - 53
 - https://en.wikipedia.org/wiki/Addition
@@ -650,7 +656,7 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 - https://en.wikipedia.org/wiki/Stern%E2%80%93Brocot_tree
    - 73
 - https://en.wikipedia.org/wiki/Pythagorean_triple#Generating_a_triple
-   - 75, 86
+   - 75, 86, 94
 - https://en.wikipedia.org/wiki/Partition_function_(number_theory)
    - 78
 - https://en.wikipedia.org/wiki/Monte_Carlo_method
