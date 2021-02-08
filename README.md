@@ -597,6 +597,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Euclid's method for generating Pythagorean triplets.  
 
 ### Problem 95
+**Name**: Amicable chains  
+**Solution**: 14316  
+**Timing**: 3896.47ms  
+**Approach**: Cache previous chains, use fast method for Aliquot sum from problem 23.  
+
+### Problem 96
 **Name**:   
 **Solution**:   
 **Timing**:   
@@ -662,6 +668,6 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 - https://en.wikipedia.org/wiki/Monte_Carlo_method
    - 84
 - https://en.wikipedia.org/wiki/Aliquot_sum
-   - 21, 23
+   - 21, 23, 95
 - https://en.wikipedia.org/wiki/Binary_expression_tree
    - 93
