@@ -603,6 +603,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Cache previous chains, use fast method for Aliquot sum from problem 23.  
 
 ### Problem 96
+**Name**: Su Doku  
+**Solution**: 24702  
+**Timing**: 3264.59ms  
+**Approach**: Keep track of possibilities for each cell. Search with backtracking.  
+
+### Problem 97
 **Name**:   
 **Solution**:   
 **Timing**:   
