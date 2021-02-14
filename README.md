@@ -609,6 +609,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Keep track of possibilities for each cell. Search with backtracking.  
 
 ### Problem 97
+**Name**: Large non-Mersenne prime  
+**Solution**: 8739992577  
+**Timing**: 0.060778ms  
+**Approach**: Fast exponentiation.  
+
+### Problem 98
 **Name**:   
 **Solution**:   
 **Timing**:   
@@ -650,7 +656,7 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 - https://en.wikipedia.org/wiki/Addition
    - 48, 55, 57
 - https://en.wikipedia.org/wiki/Exponentiation_by_squaring
-   - 56
+   - 56, 97
 - https://en.wikipedia.org/wiki/Lychrel_number
    - 55
 - https://en.wikipedia.org/wiki/Most_common_words_in_English
