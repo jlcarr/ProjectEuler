@@ -615,6 +615,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Fast exponentiation.  
 
 ### Problem 98
+**Name**: Anagramic squares  
+**Solution**: 18769  
+**Timing**: 1130.15ms  
+**Approach**: Create sets of permutation words, use permutations of square numbers to map to the permutations.  
+
+### Problem 99
 **Name**:   
 **Solution**:   
 **Timing**:   
@@ -648,7 +654,7 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 - https://en.wikipedia.org/wiki/Dynamic_programming
    - 31, 76, 77, 88
 - https://en.wikipedia.org/wiki/Permutation
-   - 32, 38, 41, 43
+   - 32, 38, 41, 43, 98
 - https://en.wikipedia.org/wiki/Euclidean_algorithm
    - 33, 91, 94
 - https://en.wikipedia.org/wiki/Pascal%27s_rule
