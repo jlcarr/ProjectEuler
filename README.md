@@ -621,6 +621,12 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Create sets of permutation words, use permutations of square numbers to map to the permutations.  
 
 ### Problem 99
+**Name**: Largest exponential  
+**Solution**: 709  
+**Timing**: 2.38343ms  
+**Approach**: Use logarithms to make the sizes fit into memory. Turns out we have enough precision for this approach to work.  
+
+### Problem 100
 **Name**:   
 **Solution**:   
 **Timing**:   
@@ -672,7 +678,7 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 - https://en.wikipedia.org/wiki/Clique_problem
    - 60
 - https://en.wikipedia.org/wiki/List_of_logarithmic_identities
-   - 63
+   - 63, 99
 - https://en.wikipedia.org/wiki/Pell%27s_equation
    - 66
 - https://en.wikipedia.org/wiki/Euler%27s_totient_function
