@@ -627,10 +627,10 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 **Approach**: Use logarithms to make the sizes fit into memory. Turns out we have enough precision for this approach to work.  
 
 ### Problem 100
-**Name**:   
-**Solution**:   
-**Timing**:   
-**Approach**:   
+**Name**: Arranged probability  
+**Solution**: 756872327473  
+**Timing**: 2.97521ms  
+**Approach**: This problems reduces to Pell's equation. See problem 66.  
 
 ## Useful resources
 - https://sites.google.com/site/indy256/algo_cpp/bigint
@@ -680,7 +680,7 @@ g++ -std=c++0x main.cpp -lgmpxx -lgmp
 - https://en.wikipedia.org/wiki/List_of_logarithmic_identities
    - 63, 99
 - https://en.wikipedia.org/wiki/Pell%27s_equation
-   - 66
+   - 66, 100
 - https://en.wikipedia.org/wiki/Euler%27s_totient_function
    - 69, 70, 72
 - https://en.wikipedia.org/wiki/Stern%E2%80%93Brocot_tree
